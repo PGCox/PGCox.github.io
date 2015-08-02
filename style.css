@@ -1,23 +1,23 @@
 body {
         		font-family: 'Rosario', sans-serif;
         		font-size: 20px;
-        		color:#ffffff;
-        		background-color:#0086A3;
+        		color:#333333;
+        		background-color:#FEFAE1;
         		width: 560px; margin: 0 auto; 
       			}
 
       			a:link {
-      				color: #ffffff;
+      				color: #333333;
       				font-weight: bold;
       				text-decoration:none;
       			}
       			a:visited {
-      				color: #ffffff;
+      				color: #333333;
       				font-weight: bold;
       				text-decoration:none;
       			}
       			a:hover {
-      				color: #ffffff;
+      				color: #333333;
       				font-weight: bold;
       				text-decoration: underline;
 					}
