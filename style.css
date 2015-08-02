@@ -1,6 +1,7 @@
 body {
         		font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
-        		font-size: italic, 20px;
+        		font-size: 20px;
+        		font-style: italic;
         		color:#333333;
         		background-color:#FEFAE1;
         		width: 560px; margin: 0 auto; 
