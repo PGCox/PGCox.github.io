@@ -1,6 +1,18 @@
-body {background-color:#515151}
+background {background-color:#515151}
 div {
     width: 750px;
+    height: 500px;
+    background-color: #FEFAE1;
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto
+}
+body {width: 730px;
     height: 500px;
     font-family: Baskerville W01 Italic, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
     font-size: 20px;
@@ -13,8 +25,7 @@ div {
     left: 0;
     right: 0;
 
-    margin: auto;
-}
+    margin: auto}
 
       			a:link {
       				color: #333333;
