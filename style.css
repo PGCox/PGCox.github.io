@@ -1,11 +1,10 @@
-.center {
-   width: 960px;
-   height: 780px;
-   position: absolute;
-   left: 50%;
-   top: 50%; 
-   margin-left: -480px; /* Half of the total width */
-   margin-top: -390px; /* Half of the total height */
+.mainwrapper {
+    display:table;
+}
+
+.innerwrap {
+    display:table-cell; 
+    vertical-align:middle;
 }
 
 body {
