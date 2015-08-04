@@ -1,7 +1,10 @@
 div {
-    width: 100px;
-    height: 100px;
-    background-color: red;
+    width: 400px;
+    height: 400px;
+    font-family: Baskerville W01 Italic, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    font-size: 20px;
+    color:#333333;
+    background-color: #FEFAE1;
 
     position: absolute;
     top:0;
@@ -11,13 +14,6 @@ div {
 
     margin: auto;
 }
-
-body {
-        		font-family: Baskerville W01 Italic, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
-        		font-size: 20px;
-        		color:#333333;
-        		background-color:#FEFAE1;
-      			}
 
       			a:link {
       				color: #333333;
