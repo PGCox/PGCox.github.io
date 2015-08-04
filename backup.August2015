@@ -1,0 +1,100 @@
+style.css, index.html, aboutme.html, mediation.html:
+
+body {background-color:#515151}
+card {width: 750px;
+    height: 500px;
+    background-color: #FEFAE1;
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;}
+div {
+    width: 720px;
+    height: 500px;
+    font-family: Baskerville W01 Italic, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    font-size: 20px;
+    color:#333333;
+    background-color: #FEFAE1;
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+      			a:link {
+      				color: #333333;
+      				font-weight: bold;
+      				text-decoration:none;
+      			}
+      			a:visited {
+      				color: #333333;
+      				font-weight: bold;
+      				text-decoration:none;
+      			}
+      			a:hover {
+      				color: #333333;
+      				font-weight: bold;
+      				text-decoration: underline;
+					}
+other nice background colours:
+3ea5CE
+1abc9c
+0086A3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title>Peter Garnet Cox Mediation</title>
+<link href='http://fonts.googleapis.com/css?family=Cabin:600' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans+Caption' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+      <body><card><div align=center>
+           <br> <br> <br> <br> <br> <br> 
+<h1>Peter Garnet Cox</h1>
+<h2><a href="http://pgcox.github.io/mediation">Mediation</a></a></h2>
+<h3><a href="http://pgcox.github.io/aboutme">About me</a></h3>
+<br><br>
+<h3 align=left> <a href="mailto:pgarnetcox@gmail.com">pgarnetcox@gmail.com</a></h3>  
+     </div></card>
+          </body>
+</html>
+
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title>Peter Garnet Cox Mediation</title>
+<link href='http://fonts.googleapis.com/css?family=Cabin:600' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans+Caption' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+    <body><card><div>
+        <h3 align=center>About me</h3>
+            <p>I qualified as a solicitor in 1975 and have worked in general private practice throughout my career.</p>
+                <p>My main recent areas of work have been family law, and wills and property disputes.  However, I am experienced in a wide range of contentious and non-contentious work, including advocacy. 
+</p>
+                    <p>I was a partner in a long established firm for 20 years, 5 as senior partner.</p>
+                     <p>Since leaving partnership in 2000, I have worked as a consultant and law lecturer.</p>
+                      <p>In 1974, I obtained a further education teachers' certificate, and I have taught law on a variety of courses, including CPD courses for lawyers throughout England and Wales. 
+</p>
+                       <p>In 1999, I trained as a family mediator, and in 2015, following further training, I became an accredited civil a commercial mediator.</p>
+                       <pre align=center><a href="http://pgcox.github.io/">back</a>   <a href="http://pgcox.github.io/mediation">mediation</a></pre>
+     </div></card></body>
+</html>
+
+
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title>Peter Garnet Cox Mediation</title>
+<link href='http://fonts.googleapis.com/css?family=Cabin:600' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans+Caption' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+    <body><card><div>
+        <h3 align=center>Mediation</h3>
+            <p>Information about mediation should go here.</p>
+               
+                       
+                       <pre align=center><a href="http://pgcox.github.io/">back</a>   <a href="http://pgcox.github.io/aboutme.html">about me</a></pre>
+     </div></card></body>
+</html>
