@@ -1,20 +1,23 @@
-.mainwrapper {
-    display:table;
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
 }
 
-.innerwrap {
-    display:table-cell; 
-    vertical-align:middle;
-}
-
-/*body {
+body {
         		font-family: Baskerville W01 Italic, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
         		font-size: 20px;
         		color:#333333;
         		background-color:#FEFAE1;
-        		width: 560px; margin: 0 auto;
-        		height: 380px;
-      			}*/
+      			}
 
       			a:link {
       				color: #333333;
